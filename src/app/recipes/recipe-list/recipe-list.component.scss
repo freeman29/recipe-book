@@ -1,0 +1,17 @@
+.list-group-item {
+	.info-box, .img-box {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.info-box {
+		width: 330px;
+	}
+
+	.img-box {
+		margin-right: 10px;
+		width: 50px;
+		height: 35px;
+		overflow: hidden;
+	}
+}
